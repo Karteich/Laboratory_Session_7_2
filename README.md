@@ -11,3 +11,4 @@ task_4
 
 Объединённые: task_1 - task_3
 
+(Д/З в [Laboratory_Session_7](https://github.com/Maksim-17-kir/Laboratory_Session_7))
