@@ -8,5 +8,6 @@ task_3
 <img width="1138" height="364" alt="image" src="https://github.com/user-attachments/assets/a873f502-3509-4d86-9b6f-681c027837f4" />
 
 task_4
+
 Объединённые: task_1 - task_3
 
